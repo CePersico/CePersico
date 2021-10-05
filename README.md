@@ -50,7 +50,7 @@ Cuento con más de 10 años de experiencia en la Educación, el cual me permiti�
    <a href="https://www.linkedin.com/in/cecilia-roxana-persico-">
     <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" width=30px heigth=30px>
   </a>
-  <h3 align="center">Mi Proyecto Indivudual PoKeMon</h3>
+  <h3 align="center">Mi Proyecto Individual PoKeMon</h3>
   <p align="center"><br/>
    <a href="https://github.com/CePersico/PI-PoKeMon"> 
     <img src="https://www.nicepng.com/png/detail/160-1602324_pokemon-ball-2d-png.png" width=30px heigth=30px>
