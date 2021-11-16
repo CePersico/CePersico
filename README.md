@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###  😄 Un poco sobre mi:
 <p align="justify"><br/>
-Estoy terminando el Bootcamp de Henry ( haciendo el Proyecto Final), el cual se enfoca en el Desarrollo Web Full Stack, en donde he podido aprender nuevos lenguajes de programación e implementarlo a través de aplicaciones realizadas de manera individual, y actualmente, grupal. Me encanta aprender cada día algo nuevo y hacerlo mediante de desafíos.
+Finalice el Bootcamp de Henry( más de 700 horas), el cual se enfoca en el Desarrollo Web Full Stack, en donde he podido aprender nuevos lenguajes de programación e implementarlo a través de aplicaciones realizadas de manera individual, y también grupal( utilizando metodos SCRUM agile). Me encanta aprender cada día algo nuevo y hacerlo mediante de desafíos.
 </p>
 <p align="justify"><br/>
 Cuento con más de 10 años de experiencia en la Educación, el cual me permitió desarrollar el trabajo en equipo, la organización y preparación de las clases, la responsabilidad, entrega, resolución de problemas y la implementación de herramientas para trabajar de manera más eficiente, efectiva y ordenada.
